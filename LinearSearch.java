@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This is an implementation of the linear search algorithm.
- * @author Ramesh Kumar
+ * @author @inforkgodara
  *
  */
 public class LinearSearch {
